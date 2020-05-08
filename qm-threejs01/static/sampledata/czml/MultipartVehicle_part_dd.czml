@@ -1,0 +1,60 @@
+[
+  {
+    "id":"document",
+    "version":"1.0"
+   },
+  {
+    "id":"XX导弹",
+    "availability":"2019-08-04T16:00:00Z/2019-08-04T16:04:54.9962195740191Z",
+    "label":{
+        "fillColor" : {
+            "rgba" : [255, 255, 255, 255]
+        },
+        "font" : "12pt Lucida Console",
+        "horizontalOrigin" : "LEFT",
+        "pixelOffset" : {
+            "cartesian2" : [8, 0]
+        },
+        "style" : "FILL",
+        "text" : "XX导弹",
+        "showBackground" : true,
+        "backgroundColor" : {
+            "rgba" : [112, 89, 57, 200]
+        }
+     },
+    "model":{
+      "gltf":"/static/sampledata/model/daodan1.gltf",
+      "minimumPixelSize":40,
+      "maximumScale":100
+    },
+    "orientation" : {
+      "velocityReference": "#position"
+    },
+  
+
+    "path":{
+      "material":{
+          "polylineOutline":{
+            "color":{
+                "rgba":[
+                  255,0,0,255
+                ]
+              }
+            }
+      },
+      "width" : 2,
+       "leadTime" :0
+    
+    },
+    "position":{
+      "interpolationAlgorithm":"LAGRANGE",
+      "interpolationDegree":5,
+      "epoch":"2019-08-04T16:03:10Z",
+      "cartesian":[
+          0.0,187060.0237851041,4714620.201303128,4279814.108724547,
+          50.0,180958.08587380598,4710718.595586857,4283785.888566198
+
+      ]
+    }
+  }
+]

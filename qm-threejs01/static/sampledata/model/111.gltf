@@ -1,0 +1,253 @@
+{
+  "accessors": [
+    {
+      "name": "test1_1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -5.64149284362793,
+        -0.07445300370454788,
+        -5.067558765411377
+      ],
+      "max": [
+        5.64149284362793,
+        1.0744529962539673,
+        5.067558765411377
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "test1_1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "test1_1_0_texcoords",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        0.125,
+        0
+      ],
+      "max": [
+        0.875,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "test1_1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "name": "test_1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -5.0128607749938965,
+        -0.010440999642014503,
+        -4.502881050109863
+      ],
+      "max": [
+        5.0128607749938965,
+        1.0104409456253052,
+        4.502881050109863
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 288
+    },
+    {
+      "name": "test_1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 288
+    },
+    {
+      "name": "test_1_0_texcoords",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        0.125,
+        0
+      ],
+      "max": [
+        0.875,
+        1
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 192
+    },
+    {
+      "name": "test_1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 72
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "111",
+      "byteLength": 1680,
+      "uri": "data:application/octet-stream;base64,HIe0wNF6mL1xKaJAHIe0QNF6mL1xKaJAHIe0QK2HiT9xKaJAHIe0wK2HiT9xKaJAHIe0wK2HiT9xKaJAHIe0QK2HiT9xKaJAHIe0QK2HiT9xKaLAHIe0wK2HiT9xKaLAHIe0wK2HiT9xKaLAHIe0QK2HiT9xKaLAHIe0QNF6mL1xKaLAHIe0wNF6mL1xKaLAHIe0wNF6mL1xKaLAHIe0QNF6mL1xKaLAHIe0QNF6mL1xKaJAHIe0wNF6mL1xKaJAHIe0QNF6mL1xKaJAHIe0QNF6mL1xKaLAHIe0QK2HiT9xKaLAHIe0QK2HiT9xKaJAHIe0wNF6mL1xKaLAHIe0wNF6mL1xKaJAHIe0wK2HiT9xKaJAHIe0wK2HiT9xKaLAW2mgwLoQK7yaF5BAW2mgQLoQK7yaF5BAW2mgQCFWgT+aF5BAW2mgwCFWgT+aF5BAW2mgwCFWgT+aF5BAW2mgQCFWgT+aF5BAW2mgQCFWgT+aF5DAW2mgwCFWgT+aF5DAW2mgwCFWgT+aF5DAW2mgQCFWgT+aF5DAW2mgQLoQK7yaF5DAW2mgwLoQK7yaF5DAW2mgwLoQK7yaF5DAW2mgQLoQK7yaF5DAW2mgQLoQK7yaF5BAW2mgwLoQK7yaF5BAW2mgQLoQK7yaF5BAW2mgQLoQK7yaF5DAW2mgQCFWgT+aF5DAW2mgQCFWgT+aF5BAW2mgwLoQK7yaF5DAW2mgwLoQK7yaF5BAW2mgwCFWgT+aF5BAW2mgwCFWgT+aF5DAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAADAPgAAgD8AACA/AACAPwAAID8AAEA/AADAPgAAQD8AAMA+AABAPwAAID8AAEA/AAAgPwAAAD8AAMA+AAAAPwAAwD4AAAA/AAAgPwAAAD8AACA/AACAPgAAwD4AAIA+AADAPgAAgD4AACA/AACAPgAAID8AAAAAAADAPgAAAAAAACA/AACAPwAAYD8AAIA/AABgPwAAQD8AACA/AABAPwAAAD4AAIA/AADAPgAAgD8AAMA+AABAPwAAAD4AAEA/AADAPgAAgD8AACA/AACAPwAAID8AAEA/AADAPgAAQD8AAMA+AABAPwAAID8AAEA/AAAgPwAAAD8AAMA+AAAAPwAAwD4AAAA/AAAgPwAAAD8AACA/AACAPgAAwD4AAIA+AADAPgAAgD4AACA/AACAPgAAID8AAAAAAADAPgAAAAAAACA/AACAPwAAYD8AAIA/AABgPwAAQD8AACA/AABAPwAAAD4AAIA/AADAPgAAgD8AAMA+AABAPwAAAD4AAEA/AgADAAAAAAABAAIABQAHAAQABwAFAAYACQALAAgACwAJAAoADgAPAAwADAANAA4AEgATABAAEAARABIAFQAXABQAFwAVABYAAgADAAAAAAABAAIABQAHAAQABwAFAAYACQALAAgACwAJAAoADgAPAAwADAANAA4AEgATABAAEAARABIAFQAXABQAFwAVABYA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 576,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 384,
+      "byteOffset": 1152,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 144,
+      "byteOffset": 1536,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "initialShadingGroup",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "test1_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "test_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "test1",
+      "mesh": 0
+    },
+    {
+      "name": "test",
+      "mesh": 1
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ]
+}
