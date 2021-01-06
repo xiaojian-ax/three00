@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@bikeshaving/crank": "^0.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cesium": "^1.44.0",
     "cesium-navigation": "^1.0.0",
     "cesiumvectortile": "^1.0.6",
